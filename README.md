@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglassilvadeveloper&show_icons=true&theme=radical) -->
+
 My name is Douglas Silva. I am a systems analyst and developer focused on the Web. I am currently training in mobile application development in the Swift language with SwiftUI.
 
 I am motivated by helping people solve their problems.
@@ -23,3 +26,8 @@ I am motivated by helping people solve their problems.
   
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,elixir,swift)](https://skillicons.dev)
+
+
+Connect with me? 👇🏼
+- douglassilvadeveloper@gmail.com
+    
