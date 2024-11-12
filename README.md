@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 <!--
 **douglassilvadeveloper/douglassilvadeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Douglas Silva. I am a systems analyst and developer focused on the Web. I am currently training in mobile application development in the Swift language with SwiftUI.
+
+I am motivated by helping people solve their problems.
+
+- 📍 Living in Mossoró, Rio Grande do Norte, BR
+- 💻 Graduated in Systems Analysis and Development at UNINASSAU
+  
+
+[![My Skills](https://skillicons.dev/icons?i=python,js,elixir,swift)](https://skillicons.dev)
