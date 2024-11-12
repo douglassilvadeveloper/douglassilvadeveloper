@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglassilvadeveloper&show_icons=true&theme=radical) -->
 
-My name is Douglas Silva. I am a systems analyst and developer focused on the Web. I am currently training in mobile application development in the Swift language with SwiftUI.
+My name is Douglas Silva. I am a systems analyst and developer focused on the Web. I am currently training in Elixir/Phoenix Framework and in mobile application development in Swift/SwiftUI.
 
 I am motivated by helping people solve their problems.
 
