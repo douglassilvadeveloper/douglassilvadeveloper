@@ -26,8 +26,4 @@ I am motivated by helping people solve their problems.
   
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,elixir,swift)](https://skillicons.dev)
-
-
-Connect with me? 👇🏼
-- douglassilvadeveloper@gmail.com
     
